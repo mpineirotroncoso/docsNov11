@@ -1,6 +1,6 @@
 public class Main {
     /**
-     * Ejemplos crear libro de diferentes formas
+     * Ejemplos crear libro de diferentes formas, version 1.1
      * @param args
      */
     public static void main(String[] args) {
